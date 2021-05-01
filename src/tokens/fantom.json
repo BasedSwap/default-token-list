@@ -1,5 +1,13 @@
 [
   {
+    "name": "Based Fantom",
+    "symbol": "BASED",
+    "address": "0x23654048e2Ee5E8414EEa67A7d1A1C02505B7e4a",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ipfs.io/ipfs/QmdDHd6urHVE6nv7pPe9fXMjXSGrPAzLXmnhFMy4FBGdEx?filename=based.png"
+  },
+  {
     "name": "Wrapped Fantom",
     "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
     "symbol": "WFTM",
